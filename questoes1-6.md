@@ -1,7 +1,7 @@
 # ativida1-2bimestre
-1- O código funciona perfeitamente dizendo "Olá Mundo".
+1- O código funciona, escrevendo "Olá Mundo".
 
-2- O código funciona dizendo "Olá Mundo, como vai" Na mesma linha.
+2- O código funciona, escrevendo "Olá Mundo, como vai" Em linha única.
 
 3- O código funciona dizendo "Olá Mundo", "\n" "Como vai", a única coisa que muda da atividade 2 para 3, é que não fica na mesma linha.
 
